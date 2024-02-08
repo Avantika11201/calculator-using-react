@@ -41,6 +41,7 @@ body {
     padding: .75rem;
     word-wrap: break-word;
     word-break: break-all;
+    /* color: white; */
 }
 
 .output .previous-operand {
